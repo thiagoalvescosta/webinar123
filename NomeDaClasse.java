@@ -15,7 +15,7 @@ public class NomeDaClasse {
 	 * Construtor
 	 **/
 	public NomeDaClasse (){
-	  String x = 1;
+	  String x = 2;
 	}
 
 }
